@@ -6,7 +6,7 @@ package com.progmatic.labyrinthproject;
  * @author pappgergely
  */
 public class Coordinate {
-    
+
     private final int row, col;
 
     public Coordinate(int col, int row) {

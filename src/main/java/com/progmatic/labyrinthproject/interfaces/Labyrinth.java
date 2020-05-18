@@ -48,7 +48,8 @@ public interface Labyrinth {
      * @param height The new height.
      */
     void setSize(int width, int height);
-    
+
+
     /**
      * Sets a given cell coordinates to a cell type.
      * After calling a setCellType(c, ct), getCellType(c) should return ct.
